@@ -1,1 +1,10 @@
-# challenge-deploy-sol-contract-plasm-network-v1
+# BEGINNER CHALLENGE - DEPLOY SOLIDITY CONTRACT PLASM NETWORK V1
+
+**full_example WASM code uploaded (aka FULL_EXAMPLE.WASM)**
+0x757484e7588eb9aadfd0b1307fc64eefc56b39cbe171b5b3d3bd1fac6cc9587b
+
+**Contract FULL_EXAMPLE.WASM (INSTANCE)**
+W5AD1kn7gEnKVuPrX8sQ9RqNPFAaU5RgQREi62mLvzUSGBA
+
+**My awesome Dusty Address**
+ZteMTWSDpNNajD14Na7C3H3wfqRLMGyLcjx9q7M16BZsDLZ
